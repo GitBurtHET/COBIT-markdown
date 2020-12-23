@@ -7,5 +7,5 @@
 * [Positie van het Framework](positie-van-het-framework.md)
 * [Voor- en nadelen](voor-en-nadelen.md)
 * [COBIT bij publieke cloud aanbieders](cobit-bij-publieke-cloud-aanbieders.md)
-* [Alles in één pagina](alles-in-een-pagina.md)
+* [Alles in één pagina \(met links naar bronnen\)](untitled.md)
 
